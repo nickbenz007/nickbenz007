@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickbenz007
 - 👀 I’m interested in Full Stack with Python.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on JavaScript, Nodejs, Python.
+- 💞️ I’m looking to collaborate on JavaScript, Nodejs, Python, GraphQl.
 - 📫 How to reach me nickbenz007@gmail.com, @NickBenz007, @benznick. 
 
 <!---
